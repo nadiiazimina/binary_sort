@@ -1,2 +1,2 @@
-# binary_sort
+# insertion_sort
 Created with CodeSandbox
